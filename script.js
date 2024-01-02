@@ -38,7 +38,7 @@ Away to the ${transportation} I flew like a ${noun3}, Tore open the ${noun4} and
 
 And then, in a twinkling, I heard on the roof, The ${adjective5} prancing and pawing of each little ${animal}.
 
-As I drew in my ${breath}, and was turning around, Down the chimney ${celebrityChef} came with a ${adjective6} bound.
+As I drew in my breath, and was turning around, Down the chimney ${celebrityChef} came with a ${adjective6} bound.
 
 He was dressed all in ${color}, from his head to his toe, And his clothes were all tarnished with ${culinarySubstance1} and ${culinarySubstance2}.
 
